@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
 import './App.css'
-import CardList from './CardList';
-import Scroll from './Scroll';
+import CardList from '../components/CardList';
+import Scroll from '../components/Scroll';
 //import { robots } from './robots';
-import SearchBox from './SearchBox.js';
+import SearchBox from '../components/SearchBox.js';
 
 
 
